@@ -1,10 +1,11 @@
-import pypokedex
 import PIL.Image, PIL.ImageTk
 import tkinter as tk
+import urllib3
 
 import pyttsx3
-import urllib3
+import pypokedex
 from io import BytesIO
+
 
 def SpeakText(text_variable):
     engine = pyttsx3.init()
@@ -52,7 +53,7 @@ def load_pokemon():
     pokemon_information.config(text=f"{pokemon.dex} - {pokemon.name.capitalize()} \n "
                                     f"Atk: {pokemon.base_stats.attack}, Def: {pokemon.base_stats.defense}, Speed: {pokemon.base_stats.speed}")
 
-    pokemon_types.config(text=f"Type: " + ', '.join(pokemon.types))
+    pokemon_types.config(text=f"Type: " + ', '.join(pokemon.types).capitalize())
 
     pkmn_moves = {move.level: move.name.replace("-", " ") for move in pokemon.moves["red-blue"] if move.level}
     sorted_moves = sorted(pkmn_moves)
