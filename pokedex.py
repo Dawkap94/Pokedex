@@ -1,6 +1,7 @@
 import PIL.Image, PIL.ImageTk
 import tkinter as tk
 import urllib3
+import requests
 
 import pyttsx3
 import pypokedex
@@ -13,6 +14,12 @@ def SpeakText(text_variable):
     engine.setProperty('voice', voices[1].id)
     engine.say(text_variable)
     engine.runAndWait()
+
+
+def get_pokemon_description(number):
+    response = requests.get(f"https://pokeapi.co/api/v2/pokemon-species/{number}")
+    description = response.json().get("flavor_text_entries")[1].get("flavor_text").replace("\n", " ").replace("", " ")
+    return description
 
 
 window = tk.Tk()
@@ -57,7 +64,8 @@ def load_pokemon():
 
     pkmn_moves = {move.level: move.name.replace("-", " ") for move in pokemon.moves["red-blue"] if move.level}
     sorted_moves = sorted(pkmn_moves)
-    moves_string = "Attacks: \n"
+    description = get_pokemon_description(pokemon.dex)
+    moves_string = f"{description}\n\nAttacks: \n"
     for elem in sorted_moves:
         moves_string += f"Level: {elem}:  {pkmn_moves[elem]}\n"
     pokemon_moves.config(text=f"{moves_string}")
