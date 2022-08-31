@@ -19,7 +19,7 @@ Added description
 # To do
 - [x] backgrounds
 - [x] add short description
-- [ ] display opposite types - best counters
-- [ ] will see
+- [x] display opposite types - best counters
+- [ ] add pokemon cry sound when displaying
 
 #End
