@@ -1,3 +1,5 @@
+import time
+
 import PIL.Image, PIL.ImageTk
 import tkinter as tk
 import urllib3
@@ -7,6 +9,7 @@ import pyttsx3
 import pypokedex
 from io import BytesIO
 from opposite_types import opposite_types
+import playsound
 
 
 def SpeakText(text_variable):
@@ -61,7 +64,7 @@ def load_pokemon():
     pokemon_information.config(text=f"{pokemon.dex} - {pokemon.name.capitalize()} \n "
                                     f"Atk: {pokemon.base_stats.attack}, Def: {pokemon.base_stats.defense}, Speed: {pokemon.base_stats.speed}")
     enemies = str([opposite_types[elem] for elem in pokemon.types]).replace("[", "").replace("]", "").replace("'", "")
-    pokemon_types.config(text=f"Type: " + ', '.join(pokemon.types) + "\n Vulnerability: " + enemies )
+    pokemon_types.config(text=f"Type: " + ', '.join(pokemon.types) + "\n Vulnerability: " + enemies)
 
     pkmn_moves = {move.level: move.name.replace("-", " ") for move in pokemon.moves["red-blue"] if move.level}
     sorted_moves = sorted(pkmn_moves)
@@ -72,6 +75,8 @@ def load_pokemon():
     pokemon_moves.config(text=f"{moves_string}")
 
     SpeakText(f"Number: {pokemon.dex}, {pokemon.name}. Pokemon type: {', '.join(pokemon.types)}")
+    time.sleep(0.5)
+    playsound.playsound(fr'C:\Users\48530\PycharmProjects\Pokedex\pokemon_cries\{pokemon.name.capitalize()}.mp3', True)
 
 
 label_id_name = tk.Label(window, text="Insert ID(1-898) or Name")

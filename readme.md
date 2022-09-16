@@ -20,6 +20,6 @@ Added description
 - [x] backgrounds
 - [x] add short description
 - [x] display opposite types - best counters
-- [ ] add pokemon cry sound when displaying
+- [x] add pokemon cry sound when displaying (done but only for kanto)
 
 #End

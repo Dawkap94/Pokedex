@@ -14,6 +14,6 @@ opposite_types = {"normal": ["fighting"],
                   "ice": ["fighting", "rock", "fire", "steel"],
                   "dragon": ["ice", "dragon", "fairy"],
                   "fairy": ["poison", "steel"],
-                  "dark": ["fighting", "bug", "fairy"]
-
+                  "dark": ["fighting", "bug", "fairy"],
+                  "grass": ["fire", "flying"]
 }

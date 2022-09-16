@@ -1,0 +1,652 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" 
+   xml:lang="en-gb" lang="en-gb" 
+   xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="kingdom hearts 2, kingdom hearts, KH3D, dream, drop, distance, updates, news" />
+  <meta name="description" content="Kingdom Hearts Insider - the largest kingdom hearts community and news resource on the web!" />
+  <title>
+  Kingdom Hearts Insider</title>
+
+  <link rel="shortcut icon" href="https://www.khinsider.com/layout/favicon.ico" />
+  <script src="https://www.khinsider.com/layout/jquery.js" type="text/javascript"></script>
+  <script src="/layout/galleria/galleria-1.2.9.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="/layout/galleria/themes/classic/galleria.classic.css" type="text/css" />
+  <script src="https://www.khinsider.com/layout/common.js"></script>
+  <script src="//connect.facebook.net/en_US/all.js#xfbml=1" type="text/javascript"></script>
+  <script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+  </script>
+  
+<link rel="stylesheet" href="https://www.khinsider.com/layout/template.css" type="text/css" />
+<script type="text/javascript">
+$(function () {
+			$('.top').hide();
+			$(window).scroll(function () {
+				if ($(this).scrollTop() > 100) {
+					$('.top').fadeIn();
+				} else {
+					$('.top').fadeOut();
+				}
+			});
+
+		// scroll body to 0px on click
+		$('.top a').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+				return false;
+		});
+	});
+</script>
+<meta name="google-site-verification" content="Ghl6iKruPfYFqjeVfjKfFTc6vLm8O6kDB3yYl3WDoCs" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1D7LPCZ90J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1D7LPCZ90J');
+</script>
+</head>
+<body>
+
+
+<div id="back-drop"></div>
+<div id="container">  
+<!--Container START-->
+    
+    <div id="logo">
+      <a href="https://www.khinsider.com/"><img src="https://www.khinsider.com/layout/header.png" alt="banner img" /></a>
+    </div>
+    
+    <form action="https://www.khinsider.com/search" method="get" id="search_form">
+	<div class="search2">
+		<label for="search">Search...</label><input name="search" id="mod-search-searchword" maxlength="100"  class="inputbox2" type="text" size="50" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" /><input type="image" value="go" class="button2" src="https://www.khinsider.com/layout/searchButton.gif" onclick="this.form.searchword.focus();"/>
+	</div>
+</form>
+
+<ul class="menu2">
+<li class="item-462"><a href="https://www.khinsider.com/">Home</a></li><li class="item-463"><a href="/forums">Forums</a></li><li class="item-464"><a href="/forums/index.php?register/">Register</a></li><li class="item-465"><a href="/contact-us">Contact Us</a></li></ul>
+
+    <div id="top-graphic">
+    </div>
+         
+    <!--Feature Content-->
+    
+    
+    
+
+<div class="custom"  >
+	<div id="featuredcontent">  
+				
+		<div class="featuredbox">
+			<ul class="hover">
+			<li><a href="https://www.khinsider.com/news/KINGDOM-HEARTS-20th-anniversary-trailer-18806"><img src="https://images.khinsider.com/images/featureimage.jpg" border="0" /></a></li>
+			</ul>
+                          <p><a href="https://www.khinsider.com/news/KINGDOM-HEARTS-20th-anniversary-trailer-18806">KINGDOM HEARTS 20th anniversary trailer + event announced</a></p>
+			
+		</div>                 
+				
+		<div class="featuredbox">
+			<ul class="hover">
+			<li><a href="https://www.khinsider.com/news/Kingdom-Hearts-Series-Coming-to-Nintendo-Switch-18793"><img src="https://images.khinsider.com/images/featureimage2.jpg" border="0" /></a></li>
+			</ul>
+                          <p><a href="https://www.khinsider.com/news/Kingdom-Hearts-Series-Coming-to-Nintendo-Switch-18793">Kingdom Hearts Series Coming to Nintendo Switch as Cloud Versions</a></p>
+			
+		</div>                 
+				
+		<div class="featuredbox">
+			<ul class="hover">
+			<li><a href="https://www.khinsider.com/news/Sora-from-Kingdom-Hearts-announced-as-a-new-fighter-in-Super-Smash-Bros-Ultimate-16397"><img src="https://images.khinsider.com/images/featureimage3.jpg" border="0" /></a></li>
+			</ul>
+                          <p><a href="https://www.khinsider.com/news/Sora-from-Kingdom-Hearts-announced-as-a-new-fighter-in-Super-Smash-Bros-Ultimate-16397">Sora from Kingdom Hearts announced as a new DLC fighter in Super Smash Bros. Ultimate</a></p>
+			
+		</div>                 
+			</div>
+
+	<div id="featuredad">
+<script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90";
+    e9.noAd = 1;
+//--></script>
+<script type="text/javascript" src="//tags.expo9.exponential.com/tags/KHInsidercom/ROS/tags.js"></script>
+	</div>
+</div>
+
+    
+               <!--Global Menu-->
+    
+    <!--img id="c-edge" src="https://www.khinsider.com/layout/categories_edge.png"/-->
+    
+<div class="m-menu"> 
+
+ 
+<ul class="menu3">
+<li class="item-535"><a href="https://www.khinsider.com/">All</a></li><li class="item-536"><a href="https://www.khinsider.com/news">News</a></li><li class="item-536"><a href="https://www.khinsider.com/interviews">Interviews</a></li><li class="item-537"><a href="https://www.khinsider.com/features">Features</a></li><li class="item-537"><a href="https://www.khinsider.com/editorials">Editorials</a></li><li class="item-538"><a href="https://www.khinsider.com/merchandise">Merchandise</a></li><!--<a href="https://www.khinsider.com/community">Community</a></li><li class="item-539"><a href="https://www.khinsider.com/graphics">Graphics</a></li>--></ul>
+
+</div>
+    
+<!--Side Navigation-->
+    
+     <div id="side-navigation">
+      <div id="ad-box">
+        
+
+<div class="custom1"  >
+<script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "300x250";
+    e9.noAd = 1;
+//--></script>
+<script type="text/javascript" src="//tags.expo9.exponential.com/tags/KHInsidercom/ROS/tags.js"></script>
+</div>
+
+      </div>
+        
+        <div id="box_games" class="moduletable3">
+          
+
+<div class="custom"  >
+	<!--h2>GAMES</h2-->
+<ul>
+    <li class="sidebar-dark-seeker-saga game-title"><a href="https://www.khinsider.com/dark-seeker-saga">Dark Seeker Saga</a>
+         </li>
+    <li class="sidebar-kingdom-hearts-3 game-title"><a href="https://www.khinsider.com/kingdom-hearts-3">KINGDOM HEARTS III</a>
+         </li>
+    <li class="sidebar-melody-of-memory game-title"><a href="https://www.khinsider.com/melody-of-memory">KINGDOM HEARTS Melody of Memory</a>
+         </li>
+    <li class="sidebar-kingdom-hearts-x game-title"><a href="https://www.khinsider.com/kingdom-hearts-x">KINGDOM HEARTS χ series</a>
+         </li>
+    <li class="sidebar-kingdom-hearts-mobile game-title"><a href="https://www.khinsider.com/kingdom-hearts-mobile">MOBILE</a>
+         </li>
+    <li class="sidebar-the-world-ends-with-you game-title"><a href="https://www.khinsider.com/the-world-ends-with-you">The World Ends With You</a>
+         </li>
+    <li class="sidebar-neo-the-world-ends-with-you game-title"><a href="https://www.khinsider.com/neo-the-world-ends-with-you">NEO: The World Ends With You</a>
+         </li>
+</ul></div>
+
+       </div>  
+
+     <div id="box5" class="moduletable3">
+          
+
+<div class="custom"  >
+	<h2>RECENT DISCUSSION TOPICS</h2>
+<ul>
+    <li><a href="/forums/index.php?threads/236751/" title="Should we wait for a full-fledged game about Verum Rex starring Yozora?" target="blank" class="mainlevel">Should we wait for a full-fledged game about Verum Rex starring Yozora?</a></li>
+    <li><a href="/forums/index.php?threads/236727/" title="Disney Games JP to host KINGDOM HEARTS 20th Special Talk #1 on August 31st" target="blank" class="mainlevel">Disney Games JP to host KINGDOM HEARTS 20th Special Talk #1 on August 31st</a></li>
+    <li><a href="/forums/index.php?threads/236706/" title="Am I the only one who sees some similarity between Levi from AoT and Roxas?" target="blank" class="mainlevel">Am I the only one who sees some similarity between Levi from AoT and Roxas?</a></li>
+    <li><a href="/forums/index.php?threads/236637/" title="Which Guardian of Light has the best looking Stained Glass in your opinion?" target="blank" class="mainlevel">Which Guardian of Light has the best looking Stained Glass in your opinion?</a></li>
+    <li><a href="/forums/index.php?threads/236617/" title="Which characters has the best Rivalry in your opinion?" target="blank" class="mainlevel">Which characters has the best Rivalry in your opinion?</a></li>
+    <li><a href="/forums/index.php?threads/236591/" title="Why did Vanitas say he’ll keep Aqua as a backup when only pure of hearts can forge the X-blade?" target="blank" class="mainlevel">Why did Vanitas say he’ll keep Aqua as a backup when only pure of hearts can forge the X-blade?</a></li>
+    <li><a href="/forums/index.php?threads/236549/" title="Farmin" target="blank" class="mainlevel">Farmin</a></li>
+    <li><a href="/forums/index.php?threads/236544/" title="Favorite foreteller design?" target="blank" class="mainlevel">Favorite foreteller design?</a></li>
+    <li><a href="/forums/index.php?threads/236509/" title="Crimes of the worlds" target="blank" class="mainlevel">Crimes of the worlds</a></li>
+    <li><a href="/forums/index.php?threads/236438/" title="[SolidArf] "What I Learnt Photographing NPCs in Kingdom Hearts III"" target="blank" class="mainlevel">[SolidArf] "What I Learnt Photographing NPCs in Kingdom Hearts III"</a></li>
+</ul></div>
+
+      </div>
+
+      <div id="box1" class="moduletable">
+          
+
+<div class="custom"  >
+	<h2>MULTIMEDIA</h2>
+<ul>
+<li><a href="https://www.khinsider.com/submissions">Submissions</a></li>
+<li><a href="https://www.khinsider.com/avatars">Avatars</a></li>
+<li><a href="https://www.khinsider.com/signatures">Signatures</a></li>
+<li><a href="https://www.khinsider.com/wallpapers">Wallpapers</a></li>
+<li><a href="https://www.khinsider.com/iphone-wallpapers">iPhone Wallpapers</a></li>
+<li><a href="https://www.khinsider.com/psp-wallpapers">PSP Wallpapers</a></li>
+<li><a href="https://www.khinsider.com/ps-vita-wallpapers">PS Vita Wallpapers</a></li>
+<li><a href="https://www.khinsider.com/midi">Video Game MIDI files</a></li>
+<li><a href="https://downloads.khinsider.com" target="_blank">Video Game Music</a></li>
+<li><a href="https://anime.thehylia.com" target="_blank">Anime Downloads</a></li>
+</ul></div>
+
+       </div>
+      
+      <div id="box3" class="moduletable3">
+          
+
+<div class="custom"  >
+	<h2>COMMUNITY SPOTLIGHT</h2>
+<p>
+Elsa, Anna, Rapunzel, and Kairi make up four of the new Princesses of Heart. <a href="/forums/index.php?threads/216646/">Come theorise who the last three Princesses will be</a>!
+</p></div>
+
+      </div>
+      
+ 
+
+
+<div id="box-email" class="moduletable3">
+	<h2>NEWSLETTER</h2>
+<p>Subscribe to Kingdom Hearts News!</p>
+<p>Enter your email address:</p>
+<form style="border:0px solid #ccc;padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=KHIKingdomHeartsNews', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p><input type="text" style="width:140px" name="email"/><input type="hidden" value="KHIKingdomHeartsNews" name="uri"/><input type="hidden" name="loc" value="en_US"/>&nbsp; &nbsp; <input type="submit" value="Subscribe" /></p></form>
+</div>
+        <div id="box2" class="moduletable3">
+          
+
+<div class="custom"  >
+	<h2>KHINSIDER</h2>
+<ul>
+<li><a href="https://www.khinsider.com/membership-faq">Membership FAQ</a></li>
+<li><a href="mailto:staff@khinsider.com">Contact Us</a> 
+<li><a href="https://www.khinsider.com/about-us">About Us</a></li>
+<li><a href="https://www.khinsider.com/staff">Staff</a></li>
+<li><a href="https://www.khinsider.com/affiliation">Affiliation</a></li>
+</ul>
+</div>
+       </div>
+      
+       
+      
+
+<div class="custom"  >
+	<div id="ad-skyscraper">
+
+</div></div>
+  
+
+      
+<div id="box4" class="moduletable3">
+	<h2>POLL</h2>
+ 	<div class="poll" style="border:none; padding:1px;">
+        <h4>Who do you prefer to play as in Kingdom Hearts 3D?</h4>
+
+		<div id="polldiv_1">
+        	<div>
+				<div style="padding:3px;">Sora - 100%</div>
+				<div style="height:10px; padding:1px; border:1px solid #cccccc;">
+					<div style="width: 100%; height:10px;background:#66a7c5;"></div>
+				</div>
+			</div>
+			
+			<div>
+				<div style="padding:3px;">Riku - 0%</div>
+				<div style="height:10px; padding:1px; border:1px solid #cccccc;">
+					<div style="width: 2%; height:10px;background:#ee3231;"></div>
+				</div>
+			</div>
+			<br /><b>Total votes</b>: 1, but the poll doesn't work yet
+			<!-- End of #polldiv -->
+		</div>
+		<div id="poll_links" style="padding-top:5px; ">
+  			<a class="poll_result_link" href="/upgrade/component/acepolls/poll/1-who-do-you-prefer-to-play-as-in-kingdom-hearts-3d">View details</a><br />
+		    <a class="poll_result_link" target="_self" href="#">read the related article >></a>
+		</div>
+	</div>
+</div>
+        
+    </div>
+    <div class="blog-featured">
+<div class="items-leading">
+    
+<div class="leading-1">
+	<h2><a href="https://www.khinsider.com/news/Disney-Games-JP-to-host-KINGDOM-HEARTS-20th-Special-Talk-1-on-August-31st-19301">Disney Games JP to host KINGDOM HEARTS 20th Special Talk #1 on August 31st</a></h2>
+	<dl class="article-info">
+ 		<dt class="article-info-term">Details</dt>
+		<dd class="published">Published on August 29, 2022 @ 03:35 am</dd>
+		<dd class="createdby">
+							Written by <a href="https://www.khinsider.com/forums/index.php?members/63641">Arielle</a>		</dd>
+ 	</dl>
+<div class="articlesummary">
+  			<div class="img-intro-left">
+			<a class="readmore" href="https://www.khinsider.com/news/Disney-Games-JP-to-host-KINGDOM-HEARTS-20th-Special-Talk-1-on-August-31st-19301"><img src="https://www.khinsider.com/layout/articleimages/6jJvB.png" alt=""/></a>
+		</div>
+	<a href="https://www.youtube.com/channel/UCHpOH9IudVjSTBIDl_JqacQ/featured">The official Disney Games Japan Youtube Channel</a> will be hosting the first KINGDOM HEARTS 20th Special Talk, which will premiere on August 31st at 8pm Japan Time. <a href="https://twitter.com/disneygames_jp/status/1564085691620794369">Disney Games Japan's Twitter account</a> hints at some special guests who will be speaking about the anniversary during this first stream.</div>
+<div class="articlelinks">
+<div class="socialmedialinks">
+<div id="fb-root"></div>
+<div class="cmp_like_container">
+	<fb:like href="/news/Disney-Games-JP-to-host-KINGDOM-HEARTS-20th-Special-Talk-1-on-August-31st-19301" layout="button_count" show_faces="true" send="false" width="" action="like" font="arial" colorscheme="light"></fb:like>
+</div>
+<div class="cmp_twitter_container">
+	<a href="//twitter.com/share" class="twitter-share-button" data-url="https://www.khinsider.com/news/Disney-Games-JP-to-host-KINGDOM-HEARTS-20th-Special-Talk-1-on-August-31st-19301" data-text="Disney Games JP to host KINGDOM HEARTS 20th Special Talk #1 on August 31st" data-count="horizontal">Tweet</a>
+</div>
+</div>
+<div class="readcommentlinks">
+	<a class="readmore" href="https://www.khinsider.com/news/Disney-Games-JP-to-host-KINGDOM-HEARTS-20th-Special-Talk-1-on-August-31st-19301">Read more...</a>
+	<a class="addcomment" href="https://www.khinsider.com/news/Disney-Games-JP-to-host-KINGDOM-HEARTS-20th-Special-Talk-1-on-August-31st-19301#comments" title="Add a comment">13 Comments</a>
+</div>
+</div>
+
+	<div class="item-separator"></div>
+</div>
+<div class="leading-2">
+	<h2><a href="https://www.khinsider.com/news/-SPOILER-KINGDOM-HEARTS-Union-X-DARK-ROAD-Completion-Commemorative-Q-A-19299">[SPOILER] KINGDOM HEARTS Union X DARK ROAD Completion Commemorative Q&A</a></h2>
+	<dl class="article-info">
+ 		<dt class="article-info-term">Details</dt>
+		<dd class="published">Published on August 27, 2022 @ 02:50 pm</dd>
+		<dd class="createdby">
+							Written by <a href="https://www.khinsider.com/forums/index.php?members/63641">Arielle</a>		</dd>
+ 	</dl>
+<div class="articlesummary">
+  			<div class="img-intro-left">
+			<a class="readmore" href="https://www.khinsider.com/news/-SPOILER-KINGDOM-HEARTS-Union-X-DARK-ROAD-Completion-Commemorative-Q-A-19299"><img src="https://www.khinsider.com/layout/articleimages/X8XQ77j.png" alt=""/></a>
+		</div>
+	<p>Yesterday, KINGDOM HEARTS Union X Dark Road received its Version 5.0 update which put KINGDOM HEARTS Dark Road into offline mode and finally released the long-awaited conclusion of the game's story.</p>
+<p>Many mysteries were answered while plenty of new ones were created, leaving many fans with a ton of questions about where KINGDOM HEARTS' story is going in KINGDOM HEARTS Missing-Link and beyond.&nbsp;</p>
+<p>Series Creator Tetsuya Nomura was prepared for everybody's confusion, so a Q&amp...</div>
+<div class="articlelinks">
+<div class="socialmedialinks">
+<div id="fb-root"></div>
+<div class="cmp_like_container">
+	<fb:like href="/news/-SPOILER-KINGDOM-HEARTS-Union-X-DARK-ROAD-Completion-Commemorative-Q-A-19299" layout="button_count" show_faces="true" send="false" width="" action="like" font="arial" colorscheme="light"></fb:like>
+</div>
+<div class="cmp_twitter_container">
+	<a href="//twitter.com/share" class="twitter-share-button" data-url="https://www.khinsider.com/news/-SPOILER-KINGDOM-HEARTS-Union-X-DARK-ROAD-Completion-Commemorative-Q-A-19299" data-text="[SPOILER] KINGDOM HEARTS Union X DARK ROAD Completion Commemorative Q&A" data-count="horizontal">Tweet</a>
+</div>
+</div>
+<div class="readcommentlinks">
+	<a class="readmore" href="https://www.khinsider.com/news/-SPOILER-KINGDOM-HEARTS-Union-X-DARK-ROAD-Completion-Commemorative-Q-A-19299">Read more...</a>
+	<a class="addcomment" href="https://www.khinsider.com/news/-SPOILER-KINGDOM-HEARTS-Union-X-DARK-ROAD-Completion-Commemorative-Q-A-19299#comments" title="Add a comment">52 Comments</a>
+</div>
+</div>
+
+	<div class="item-separator"></div>
+</div>
+<div class="leading-3">
+	<h2><a href="https://www.khinsider.com/news/Disney-announces-Disney-Marvel-Games-Showcase-at-D23-Expo-2022-19295">Disney announces Disney & Marvel Games Showcase at D23 Expo 2022</a></h2>
+	<dl class="article-info">
+ 		<dt class="article-info-term">Details</dt>
+		<dd class="published">Published on August 15, 2022 @ 05:15 pm</dd>
+		<dd class="createdby">
+							Written by <a href="https://www.khinsider.com/forums/index.php?members/63641">Arielle</a>		</dd>
+ 	</dl>
+<div class="articlesummary">
+  			<div class="img-intro-left">
+			<a class="readmore" href="https://www.khinsider.com/news/Disney-announces-Disney-Marvel-Games-Showcase-at-D23-Expo-2022-19295"><img src="https://www.khinsider.com/layout/articleimages/00001 xaQpt1z.png" alt=""/></a>
+		</div>
+	Disney has announced that they will be hosting the Disney &amp; Marvel Games Showcase live at D23 Expo 2022 on September 9th at 1PM Pacific Time.</div>
+<div class="articlelinks">
+<div class="socialmedialinks">
+<div id="fb-root"></div>
+<div class="cmp_like_container">
+	<fb:like href="/news/Disney-announces-Disney-Marvel-Games-Showcase-at-D23-Expo-2022-19295" layout="button_count" show_faces="true" send="false" width="" action="like" font="arial" colorscheme="light"></fb:like>
+</div>
+<div class="cmp_twitter_container">
+	<a href="//twitter.com/share" class="twitter-share-button" data-url="https://www.khinsider.com/news/Disney-announces-Disney-Marvel-Games-Showcase-at-D23-Expo-2022-19295" data-text="Disney announces Disney & Marvel Games Showcase at D23 Expo 2022" data-count="horizontal">Tweet</a>
+</div>
+</div>
+<div class="readcommentlinks">
+	<a class="readmore" href="https://www.khinsider.com/news/Disney-announces-Disney-Marvel-Games-Showcase-at-D23-Expo-2022-19295">Read more...</a>
+	<a class="addcomment" href="https://www.khinsider.com/news/Disney-announces-Disney-Marvel-Games-Showcase-at-D23-Expo-2022-19295#comments" title="Add a comment">55 Comments</a>
+</div>
+</div>
+
+	<div class="item-separator"></div>
+</div>
+<div class="leading-4">
+	<h2><a href="https://www.khinsider.com/news/A-Look-Back-KH2-Ultimania-Battle-Team-Interview-19291">A Look Back: KH2 Ultimania, Battle Team Interview</a></h2>
+	<dl class="article-info">
+ 		<dt class="article-info-term">Details</dt>
+		<dd class="published">Published on August 10, 2022 @ 05:21 pm</dd>
+		<dd class="createdby">
+							Written by <a href="https://www.khinsider.com/forums/index.php?members/89972">Cecily</a>		</dd>
+ 	</dl>
+<div class="articlesummary">
+  			<div class="img-intro-left">
+			<a class="readmore" href="https://www.khinsider.com/news/A-Look-Back-KH2-Ultimania-Battle-Team-Interview-19291"><img src="https://www.khinsider.com/layout/articleimages/00001 rLXmz4l.png" alt=""/></a>
+		</div>
+	The next interview we'd like to highlight is the Battle Team interview from the Kingdom Hearts 2 Ultimania!</div>
+<div class="articlelinks">
+<div class="socialmedialinks">
+<div id="fb-root"></div>
+<div class="cmp_like_container">
+	<fb:like href="/news/A-Look-Back-KH2-Ultimania-Battle-Team-Interview-19291" layout="button_count" show_faces="true" send="false" width="" action="like" font="arial" colorscheme="light"></fb:like>
+</div>
+<div class="cmp_twitter_container">
+	<a href="//twitter.com/share" class="twitter-share-button" data-url="https://www.khinsider.com/news/A-Look-Back-KH2-Ultimania-Battle-Team-Interview-19291" data-text="A Look Back: KH2 Ultimania, Battle Team Interview" data-count="horizontal">Tweet</a>
+</div>
+</div>
+<div class="readcommentlinks">
+	<a class="readmore" href="https://www.khinsider.com/news/A-Look-Back-KH2-Ultimania-Battle-Team-Interview-19291">Read more...</a>
+	<a class="addcomment" href="https://www.khinsider.com/news/A-Look-Back-KH2-Ultimania-Battle-Team-Interview-19291#comments" title="Add a comment">4 Comments</a>
+</div>
+</div>
+
+	<div class="item-separator"></div>
+</div>
+<div class="leading-5">
+	<h2><a href="https://www.khinsider.com/news/Kingdom-Hearts-20th-anniversary-event-recap-video-released-19260">Kingdom Hearts 20th anniversary event recap video released!</a></h2>
+	<dl class="article-info">
+ 		<dt class="article-info-term">Details</dt>
+		<dd class="published">Published on August 8, 2022 @ 10:44 am</dd>
+		<dd class="createdby">
+							Written by <a href="https://www.khinsider.com/forums/index.php?members/89972">Cecily</a>		</dd>
+ 	</dl>
+<div class="articlesummary">
+  			<div class="img-intro-left">
+			<a class="readmore" href="https://www.khinsider.com/news/Kingdom-Hearts-20th-anniversary-event-recap-video-released-19260"><img src="https://www.khinsider.com/layout/articleimages/khi40.png" alt=""/></a>
+		</div>
+	After a long wait, Square Enix has finally released the Kingdom Hearts 20th anniversary recap video! Check out the event's festivities, see fan reactions, and stay til the end for a surprise glimpse of Kingdom Hearts Dark Road's final update, releasing August 26th!</div>
+<div class="articlelinks">
+<div class="socialmedialinks">
+<div id="fb-root"></div>
+<div class="cmp_like_container">
+	<fb:like href="/news/Kingdom-Hearts-20th-anniversary-event-recap-video-released-19260" layout="button_count" show_faces="true" send="false" width="" action="like" font="arial" colorscheme="light"></fb:like>
+</div>
+<div class="cmp_twitter_container">
+	<a href="//twitter.com/share" class="twitter-share-button" data-url="https://www.khinsider.com/news/Kingdom-Hearts-20th-anniversary-event-recap-video-released-19260" data-text="Kingdom Hearts 20th anniversary event recap video released!" data-count="horizontal">Tweet</a>
+</div>
+</div>
+<div class="readcommentlinks">
+	<a class="readmore" href="https://www.khinsider.com/news/Kingdom-Hearts-20th-anniversary-event-recap-video-released-19260">Read more...</a>
+	<a class="addcomment" href="https://www.khinsider.com/news/Kingdom-Hearts-20th-anniversary-event-recap-video-released-19260#comments" title="Add a comment">18 Comments</a>
+</div>
+</div>
+
+	<div class="item-separator"></div>
+</div>
+<div class="leading-6">
+	<h2><a href="https://www.khinsider.com/news/Dark-Road-final-update-releases-on-August-26-19256">Dark Road final update releases on August 26</a></h2>
+	<dl class="article-info">
+ 		<dt class="article-info-term">Details</dt>
+		<dd class="published">Published on August 8, 2022 @ 10:36 am</dd>
+		<dd class="createdby">
+							Written by <a href="https://www.khinsider.com/forums/index.php?members/89972">Cecily</a>		</dd>
+ 	</dl>
+<div class="articlesummary">
+  			<div class="img-intro-left">
+			<a class="readmore" href="https://www.khinsider.com/news/Dark-Road-final-update-releases-on-August-26-19256"><img src="https://www.khinsider.com/layout/articleimages/kh3-22.png" alt=""/></a>
+		</div>
+	Square Enix has finally released the recap video for the Kingdom Hearts 20th anniversary event. Included with it are some surprise snippets of Kingdom Hearts Dark Road's final update, which will be releasing on August 26th!</div>
+<div class="articlelinks">
+<div class="socialmedialinks">
+<div id="fb-root"></div>
+<div class="cmp_like_container">
+	<fb:like href="/news/Dark-Road-final-update-releases-on-August-26-19256" layout="button_count" show_faces="true" send="false" width="" action="like" font="arial" colorscheme="light"></fb:like>
+</div>
+<div class="cmp_twitter_container">
+	<a href="//twitter.com/share" class="twitter-share-button" data-url="https://www.khinsider.com/news/Dark-Road-final-update-releases-on-August-26-19256" data-text="Dark Road final update releases on August 26" data-count="horizontal">Tweet</a>
+</div>
+</div>
+<div class="readcommentlinks">
+	<a class="readmore" href="https://www.khinsider.com/news/Dark-Road-final-update-releases-on-August-26-19256">Read more...</a>
+	<a class="addcomment" href="https://www.khinsider.com/news/Dark-Road-final-update-releases-on-August-26-19256#comments" title="Add a comment">61 Comments</a>
+</div>
+</div>
+
+	<div class="item-separator"></div>
+</div>
+<div class="leading-7">
+	<h2><a href="https://www.khinsider.com/news/A-Look-Back-KH2-Ultimania-Sound-Team-Interview-19028">A Look Back: KH2 Ultimania, Sound Team Interview</a></h2>
+	<dl class="article-info">
+ 		<dt class="article-info-term">Details</dt>
+		<dd class="published">Published on July 28, 2022 @ 05:32 pm</dd>
+		<dd class="createdby">
+							Written by <a href="https://www.khinsider.com/forums/index.php?members/89972">Cecily</a>		</dd>
+ 	</dl>
+<div class="articlesummary">
+  			<div class="img-intro-left">
+			<a class="readmore" href="https://www.khinsider.com/news/A-Look-Back-KH2-Ultimania-Sound-Team-Interview-19028"><img src="https://www.khinsider.com/layout/articleimages/Watchout.jpg" alt=""/></a>
+		</div>
+	Next up on our interview backlog is the Sound Team interview from the KH2 Ultimania!</div>
+<div class="articlelinks">
+<div class="socialmedialinks">
+<div id="fb-root"></div>
+<div class="cmp_like_container">
+	<fb:like href="/news/A-Look-Back-KH2-Ultimania-Sound-Team-Interview-19028" layout="button_count" show_faces="true" send="false" width="" action="like" font="arial" colorscheme="light"></fb:like>
+</div>
+<div class="cmp_twitter_container">
+	<a href="//twitter.com/share" class="twitter-share-button" data-url="https://www.khinsider.com/news/A-Look-Back-KH2-Ultimania-Sound-Team-Interview-19028" data-text="A Look Back: KH2 Ultimania, Sound Team Interview" data-count="horizontal">Tweet</a>
+</div>
+</div>
+<div class="readcommentlinks">
+	<a class="readmore" href="https://www.khinsider.com/news/A-Look-Back-KH2-Ultimania-Sound-Team-Interview-19028">Read more...</a>
+	<a class="addcomment" href="https://www.khinsider.com/news/A-Look-Back-KH2-Ultimania-Sound-Team-Interview-19028#comments" title="Add a comment">2 Comments</a>
+</div>
+</div>
+
+	<div class="item-separator"></div>
+</div>
+<div class="leading-8">
+	<h2><a href="https://www.khinsider.com/news/Super-Groupies-launches-new-Kingdom-Hearts-20th-Anniversary-collection-19232">Super Groupies launches new Kingdom Hearts 20th Anniversary collection!</a></h2>
+	<dl class="article-info">
+ 		<dt class="article-info-term">Details</dt>
+		<dd class="published">Published on July 25, 2022 @ 03:37 pm</dd>
+		<dd class="createdby">
+							Written by <a href="https://www.khinsider.com/forums/index.php?members/89972">Cecily</a>		</dd>
+ 	</dl>
+<div class="articlesummary">
+  			<div class="img-intro-left">
+			<a class="readmore" href="https://www.khinsider.com/news/Super-Groupies-launches-new-Kingdom-Hearts-20th-Anniversary-collection-19232"><img src="https://www.khinsider.com/layout/articleimages/00001 cCzX2G0.png" alt=""/></a>
+		</div>
+	Super Groupies, the fashion brand known for its collaborations with anime, manga, and video games, has launched its new <a href="https://us.super-groupies.com/blogs/feature/kingdom-hearts-06-watch-bag-wallet-umbrella-jacket-special-new-collection">Kingdom Hearts 20th anniversary collection</a>!</div>
+<div class="articlelinks">
+<div class="socialmedialinks">
+<div id="fb-root"></div>
+<div class="cmp_like_container">
+	<fb:like href="/news/Super-Groupies-launches-new-Kingdom-Hearts-20th-Anniversary-collection-19232" layout="button_count" show_faces="true" send="false" width="" action="like" font="arial" colorscheme="light"></fb:like>
+</div>
+<div class="cmp_twitter_container">
+	<a href="//twitter.com/share" class="twitter-share-button" data-url="https://www.khinsider.com/news/Super-Groupies-launches-new-Kingdom-Hearts-20th-Anniversary-collection-19232" data-text="Super Groupies launches new Kingdom Hearts 20th Anniversary collection!" data-count="horizontal">Tweet</a>
+</div>
+</div>
+<div class="readcommentlinks">
+	<a class="readmore" href="https://www.khinsider.com/news/Super-Groupies-launches-new-Kingdom-Hearts-20th-Anniversary-collection-19232">Read more...</a>
+	<a class="addcomment" href="https://www.khinsider.com/news/Super-Groupies-launches-new-Kingdom-Hearts-20th-Anniversary-collection-19232#comments" title="Add a comment">6 Comments</a>
+</div>
+</div>
+
+	<div class="item-separator"></div>
+</div>
+<div class="leading-9">
+	<h2><a href="https://www.khinsider.com/news/A-Look-Back-KH2-Ultimania-Event-Movie-Team-Interview-19014">A Look Back: KH2 Ultimania, Event & Movie Team Interview</a></h2>
+	<dl class="article-info">
+ 		<dt class="article-info-term">Details</dt>
+		<dd class="published">Published on June 27, 2022 @ 07:18 pm</dd>
+		<dd class="createdby">
+							Written by <a href="https://www.khinsider.com/forums/index.php?members/89972">Cecily</a>		</dd>
+ 	</dl>
+<div class="articlesummary">
+  			<div class="img-intro-left">
+			<a class="readmore" href="https://www.khinsider.com/news/A-Look-Back-KH2-Ultimania-Event-Movie-Team-Interview-19014"><img src="https://www.khinsider.com/layout/articleimages/sora3.jpg" alt=""/></a>
+		</div>
+	We're continuing to work our way through the rest of our interview backlog! Next on our list are the KH2 Ultimania team interviews, starting with the Event &amp; Movie Team. Check it out!</div>
+<div class="articlelinks">
+<div class="socialmedialinks">
+<div id="fb-root"></div>
+<div class="cmp_like_container">
+	<fb:like href="/news/A-Look-Back-KH2-Ultimania-Event-Movie-Team-Interview-19014" layout="button_count" show_faces="true" send="false" width="" action="like" font="arial" colorscheme="light"></fb:like>
+</div>
+<div class="cmp_twitter_container">
+	<a href="//twitter.com/share" class="twitter-share-button" data-url="https://www.khinsider.com/news/A-Look-Back-KH2-Ultimania-Event-Movie-Team-Interview-19014" data-text="A Look Back: KH2 Ultimania, Event & Movie Team Interview" data-count="horizontal">Tweet</a>
+</div>
+</div>
+<div class="readcommentlinks">
+	<a class="readmore" href="https://www.khinsider.com/news/A-Look-Back-KH2-Ultimania-Event-Movie-Team-Interview-19014">Read more...</a>
+	<a class="addcomment" href="https://www.khinsider.com/news/A-Look-Back-KH2-Ultimania-Event-Movie-Team-Interview-19014#comments" title="Add a comment">5 Comments</a>
+</div>
+</div>
+
+	<div class="item-separator"></div>
+</div>
+</div>
+</div>
+<div class="pagination">
+	<p class="counter">
+		Page 1 of 535	</p>
+	<ul> 
+		  
+				<li><span class="pagenav">1</span></li> 
+							<li><a title="2" href="?page=2" class="pagenav">2</a></li>
+							<li><a title="3" href="?page=3" class="pagenav">3</a></li>
+							<li><a title="4" href="?page=4" class="pagenav">4</a></li>
+							<li><a title="5" href="?page=5" class="pagenav">5</a></li>
+							<li><a title="6" href="?page=6" class="pagenav">6</a></li>
+							<li><a title="7" href="?page=7" class="pagenav">7</a></li>
+							<li><a title="8" href="?page=8" class="pagenav">8</a></li>
+							<li><a title="9" href="?page=9" class="pagenav">9</a></li>
+							<li><a title="10" href="?page=10" class="pagenav">10</a></li>
+						<li class="pagination-next"><a title="Next" href="?page=2" class="pagenav">Next</a></li>
+			<li class="pagination-end"><a title="End" href="?page=535" class="pagenav">End</a></li>   
+			</ul>	
+</div>
+
+           
+</div><!--Container END-->
+ 
+<div class="top"><!--Back to top button START-->
+        <a href="#"></a>
+</div><!--Back to top button END-->
+
+ 
+  <div class="clear"></div>
+  
+<div id="footercontainer"><!--Footer START-->
+      <div class="footer-wrapper">
+        <div class="joomla-footer span-16 append-1">
+          <div id="footer-left">
+            <img id="bottom-logo" src="https://images.khinsider.com/images/footer_banner2.png" alt="footer image" />
+            <span class="left"><img src="https://www.khinsider.com/layout/arrow.png" id="arrow"/></span>
+            <p>Since 2003, KINGDOM HEARTS Insider has been the largest fan community and news resource on the web for the series. We are your one stop shop for all your KINGDOM HEARTS news, media, discussion, and fandom, from the original, to Birth by Sleep, KINGDOM HEARTS 3, and beyond! </p>
+          </div>
+          <div id="footer-middle">
+            <img src="https://www.khinsider.com/layout/affiliates.png" />
+            <div id="affiliates">
+              <ul>
+                <li><a href="https://downloads.khinsider.com/" target="_blank">Video Game Music</a></li>
+                <li><a href="https://www.zophar.net/" target="_blank">Zophar's Domain Emulation</a></li>
+                <li><a href="https://ffextreme.com/" target="_blank">Final Fantasy Extreme</a></li>
+                <li><a href="http://www.khworld.org/phpbb/index.php" target="_blank">KH World</a></li>
+                
+             
+              </ul>
+            </div>
+          </div>
+          <div id="footer-right">
+            <img src="https://www.khinsider.com/layout/follow.png" />
+            <div id="social-icons">
+              <a href="http://www.youtube.com/user/KHInsiderVideos" target="_blank"><img src="https://www.khinsider.com/layout/icon_yt.png" onmouseover="this.src='https://www.khinsider.com/layout/icon_yt_hover.png'" onmouseout="this.src='https://www.khinsider.com/layout/icon_yt.png'"/></a>
+             <a href="https://www.facebook.com/KingdomHeartsInsider" target="_blank"><img src="https://www.khinsider.com/layout/icon_fb.png" onmouseover="this.src='https://www.khinsider.com/layout/icon_fb_hover.png'" onmouseout="this.src='https://www.khinsider.com/layout/icon_fb.png'" /></a>
+             <a href="https://twitter.com/khinsider" target="_blank"><img src="https://images.khinsider.com/images/icon_tw.png"  onmouseover="this.src='https://images.khinsider.com/images/icon_tw_hover.png'" onmouseout="this.src='https://images.khinsider.com/images/icon_tw.png'"/></a>
+             <a href="http://khinsider.tumblr.com/" target="_blank"><img src="https://www.khinsider.com/layout/icon_tblr.png"  onmouseover="this.src='https://www.khinsider.com/layout/icon_tblr_hover.png'" onmouseout="this.src='https://www.khinsider.com/layout/icon_tblr.png'"/></a>
+ <a href="https://www.khinsider.com/rss" target="_blank"><img src="https://images.khinsider.com/images/icon_rss.png"  onmouseover="this.src='https://images.khinsider.com/images/icon_rss_hover.png'" onmouseout="this.src='https://images.khinsider.com/images/icon_rss.png'"/></a>
+            </div>
+          </div>
+        </div>
+      </div>
+</div><!--Footer END-->
+    
+<!--Legal-->
+  
+  <p style="text-align:center; color:#6f6969;font-size: 11px;line-height:1.3;margin-bottom:20px;">&copy;2016 KHInsider. KINGDOM HEARTS official artwork, trailers, characters, merchandise, and music is copyrighted to Square Enix and Disney. 
+    <br />Original material is licensed under a Creative Commons License permitting non-commercial sharing with attribution.
+     <br />Please read our <a href="/legal">privacy policy</a> for more information | <a href="/legal">Legal Information</a></p>
+
+
+ 
+</body>
+</html>
